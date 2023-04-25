@@ -1,7 +1,9 @@
 ---
 
-### Welcome to my github page! 👋
+<div align="center">
+  ### Welcome to my github page! 👋
 
-I'm java developer. I usually upload videos related to minecraft or streaming.
+  I'm java developer. I usually upload videos related to minecraft or streaming.
+</div>
 
 ---
